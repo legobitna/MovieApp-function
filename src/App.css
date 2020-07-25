@@ -1,0 +1,9 @@
+.background{
+  background-color: black;
+
+}
+.container-style{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
